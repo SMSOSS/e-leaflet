@@ -82,7 +82,7 @@ window.addEventListener('scroll', function(event) {
     console.log(pages2,pages,scrollTop,viewportHeight);
 
     if(pages2 >= 7){
-        window.location.href = "https://d3a7b2e4001d-14885642136133191677.ngrok-free.app/";
+        window.location.href = "https://smsoss.github.io/DeStressOSS/";
     }
 
     if(pages2 >= 6){
